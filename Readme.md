@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CustomAxisLabel/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CustomAxisLabel/MainWindow.xaml))
+<!-- default file list end -->
 # How to create and customize custom axis labels
 
 
